@@ -8,6 +8,8 @@ Problematica que se desarrollo:
 
 https://youtu.be/sZkHytrNW3g
 
+https://flipgrid.com/s/K3wvmZTNzu4sC9sL
+
 # Elementos visuales y funcionamiento.
 ~Existe un botón para deshacer la última figura que se haya dibujado.
 
