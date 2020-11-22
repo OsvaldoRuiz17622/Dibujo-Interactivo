@@ -33,4 +33,4 @@ Para este programa se ocupan librerias propias del lenguaje JAVA (no se ocupo ni
 ~https://anabelisa.co/readme/
 
 # Resultados
-![](figures/DIIR.jpg)
+![](figures/DIIR.png)
