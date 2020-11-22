@@ -6,7 +6,7 @@ Problematica que se desarrollo:
 
 # Link de funcionamiento
 
-
+https://youtu.be/sZkHytrNW3g
 
 # Elementos visuales y funcionamiento.
 ~Existe un botón para deshacer la última figura que se haya dibujado.
